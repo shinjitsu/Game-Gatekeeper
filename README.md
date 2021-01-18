@@ -8,6 +8,6 @@ working. This is my "build a better mousetrap" approach to helping them stay on 
 ## Linux
 all of my machines run linux so my first pass approach only runs on linux.
 
-##Current state
+## Current state
 this is currently an early approach that lives on the client only. Eventually I'd like to have this query a server 
 so that when the work is done, a parent could remotely enable some or all of the games again
