@@ -20,7 +20,6 @@ func runLoop() {
 
 	for {
 		currentProccesses := getProcesses()
-		//		numProcesses := len(currentProccesses)
 		for _, info := range currentProccesses {
 			for _, gameName := range gameInfo {
 				if strings.Contains(info.Executable(), gameName) {
